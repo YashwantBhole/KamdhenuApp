@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/KamdhenuApp/static/css/main.bafc9c39.css",
+    "main.css": "/KamdhenuApp/static/css/main.443cbf6d.css",
     "main.js": "/KamdhenuApp/static/js/main.fccb2398.js",
     "static/media/agriculture.jpg": "/KamdhenuApp/static/media/agriculture.f85feb5ed9339ae62735.jpg",
     "index.html": "/KamdhenuApp/index.html",
-    "main.bafc9c39.css.map": "/KamdhenuApp/static/css/main.bafc9c39.css.map",
+    "main.443cbf6d.css.map": "/KamdhenuApp/static/css/main.443cbf6d.css.map",
     "main.fccb2398.js.map": "/KamdhenuApp/static/js/main.fccb2398.js.map"
   },
   "entrypoints": [
-    "static/css/main.bafc9c39.css",
+    "static/css/main.443cbf6d.css",
     "static/js/main.fccb2398.js"
   ]
 }
