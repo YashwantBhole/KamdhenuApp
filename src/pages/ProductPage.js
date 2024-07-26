@@ -7,7 +7,7 @@ function ProductPage() {
   const location = useLocation();
   const { image, title, price, description } = location.state;
   const handleBuyNow = () => {
-    window.location.href = 'tel:+919359142599'; 
+    window.location.href = 'tel:+919356900563'; 
   };
 
   return (
