@@ -1,0 +1,59 @@
+.about-container {
+    padding-top: 60px; /* Adjust based on navbar height */
+    padding: 20px;
+    background-color: #f0f0f0;
+  }
+  
+  .about-content {
+    max-width: 800px;
+    margin: 0 auto;
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .about-title {
+    font-size: 2rem;
+    color: #5151E5;
+    margin-bottom: 20px;
+  }
+  
+  .contact-info {
+    margin-bottom: 30px;
+  }
+  
+  .email-link {
+    color: #5151E5;
+    text-decoration: none;
+  }
+  
+  .email-link:hover {
+    text-decoration: underline;
+  }
+  
+  .whatsapp-button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    color: white;
+    background-color: #25D366; /* WhatsApp green color */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .whatsapp-button:hover {
+    background-color: #128C7E;
+  }
+  
+  .pdf-container {
+    margin-top: 20px;
+  }
+  
+  .pdf-title {
+    font-size: 1.5rem;
+    color: #5151E5;
+    margin-bottom: 10px;
+  }
+  
