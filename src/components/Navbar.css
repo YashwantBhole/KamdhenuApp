@@ -28,7 +28,7 @@
   .letter {
 
     color: red;
-    font-size: 20px;
+    font-size: 17px;
     font-weight: 900;
     animation: fadeIn 0.5s forwards;
     opacity: 0;

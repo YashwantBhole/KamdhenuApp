@@ -1,5 +1,5 @@
 .landing-page {
-    height: 100vh;
+    height: 100vw;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -22,12 +22,14 @@
   }
   .landing-content {
     text-align: center;
-    color: white;
+    color: black;
+    font-weight: 900;
     padding: 20px;
     border-radius: 10px;
-    background-color: black;
+    background:conic-gradient(from 45deg,red,yellow,lime,aqua,blue,magenta,red);
     max-width: 500px;
     width: 260px;
+  
   }
   
   .landing-title {

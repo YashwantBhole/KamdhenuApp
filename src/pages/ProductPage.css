@@ -1,5 +1,5 @@
 .product-container {
-    padding-top: 60px; /* Adjust based on navbar height */
+    padding-top: 10px; /* Adjust based on navbar height */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -43,12 +43,12 @@
     font-weight: 900;
     font-family: sans-serif;
     background-color: yellow;
-    font-size: 22px;
+    font-size: 20px;
     margin-bottom: 10px;
   }
   
   .product-description {
-    font-size: 1rem;
+    font-size: 0.8rem;
 
     color: white;
   }
